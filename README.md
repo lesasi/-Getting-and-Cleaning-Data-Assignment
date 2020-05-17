@@ -37,7 +37,7 @@ If the a folder with name 'UCI HAR Dataset' already exists in the working direct
  
 ### run_analysis.R 
  
-It is the main script of the repository. In order to produce the 'tidy_dataset' table, the script  '[run_analysis.R](https://github.com/lesasi/coursera-data-cleaning-course/blob/master/Assignment/run_analysis.R)' was created and used. 
+It is the main script of the repository. In order to produce the 'tidy_dataset' table, the script  '[run_analysis.R](https://github.com/lesasi/-Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)' was created and used. 
 > It performs the following tasks: 
 >  
 > #### Merges the training and the test sets to create one data set with target variables. 
@@ -85,7 +85,7 @@ It is the main script of the repository. In order to produce the 'tidy_dataset' 
 ### tidy_dataset.txt 
  
 The tidy dataset that was produced by the script 'run_analysis.txt', which contains the averages of selected features from the original 'Human Activity Recognition Using Smartphones Dataset Version 1.0'.
-The '[CodeBook.md](https://github.com/lesasi/coursera-data-cleaning-course/blob/master/Assignment/CodeBook.md)'  contains the details about the 'tidy_dataset' table.
+The '[CodeBook.md](https://github.com/lesasi/-Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md)'  contains the details about the 'tidy_dataset' table.
 
 To read the table back on R correctly, you can use the following command:
 ``` 

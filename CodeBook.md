@@ -116,9 +116,9 @@ This dataset was created for the needs of:
 
 Before trying to reproduce it, the following notes should be taken into account:
  
-  - The data used for the download was accessed by the script '[download_dataset.R](https://github.com/lesasi/coursera-data-cleaning-course/blob/master/Assignment/download_dataset.R)',  from the url: "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
+  - The data used for the download was accessed by the script '[download_dataset.R](https://github.com/lesasi/-Getting-and-Cleaning-Data-Assignment/blob/master/download_dataset.R)',  from the url: "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
     as of 15th May, 2020.
-  - The data was then processed by the script '[run_analysis.R](https://github.com/lesasi/coursera-data-cleaning-course/blob/master/Assignment/run_analysis.R)' to create the 'tidy_data_summary' table.
+  - The data was then processed by the script '[run_analysis.R](https://github.com/lesasi/-Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)' to create the 'tidy_data_summary' table.
   - The scripts were made using R(version 3.6.1).
   - The library 'dplyr' version 0.8.0.1  was used.
   - The library 'data.table' version 1.12.2  was used.
