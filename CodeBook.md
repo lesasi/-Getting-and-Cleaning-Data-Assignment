@@ -125,7 +125,7 @@ Before trying to reproduce it, the following notes should be taken into account:
 
 ## The process by which the 'tidy_dataset' table was produced
 
-In order to produce the 'tidy_dataset' table, the script  '[run_analysis.R](https://github.com/lesasi/coursera-data-cleaning-course/blob/master/Assignment/run_analysis.R)' was created and used. 
+In order to produce the 'tidy_dataset' table, the script  '[run_analysis.R](https://github.com/lesasi/-Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)' was created and used. 
  It performs the following tasks: 
    
  #### Merges the training and the test sets to create one data set with target variables. 
